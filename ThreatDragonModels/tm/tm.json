@@ -521,7 +521,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "JDE PrimeQ"
+                  "text": "JDE PrimeQ\nAPI"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
