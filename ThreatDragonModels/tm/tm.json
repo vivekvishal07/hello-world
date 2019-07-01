@@ -565,16 +565,20 @@
               },
               "vertices": [
                 {
-                  "x": 979,
-                  "y": 338
+                  "x": 977,
+                  "y": 326
+                },
+                {
+                  "x": 1056,
+                  "y": 354
                 }
               ],
               "id": "9d760e2a-8e0b-4aa1-8a05-b5318fdfd040",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.3056632811303204,
-                    "offset": 19.50148622021576
+                    "distance": 0.517192629199679,
+                    "offset": 14.851412791570379
                   },
                   "attrs": {
                     "text": {
@@ -663,11 +667,53 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 908,
+                "y": 38
+              },
+              "target": {
+                "x": 911,
+                "y": 516
+              },
+              "vertices": [
+                {
+                  "x": 985,
+                  "y": 260
+                }
+              ],
+              "id": "9f9b0884-5360-467b-b72c-b7e568d33e1b",
+              "z": 22,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 1286,
+                "y": 1
+              },
+              "target": {
+                "x": 1199,
+                "y": 521
+              },
+              "vertices": [
+                {
+                  "x": 1141,
+                  "y": 859
+                }
+              ],
+              "id": "7fd0b908-c3e2-44e8-a3df-2b514ecadb7f",
+              "z": 23,
+              "attrs": {}
             }
           ]
         },
         "size": {
-          "height": 590,
+          "height": 878.8670043945312,
           "width": 1547
         }
       }
