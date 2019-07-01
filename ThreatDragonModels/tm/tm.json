@@ -162,7 +162,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "Send supplier info",
+                      "text": "send supplier info",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -204,7 +204,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "Acknowledgement\nResponse",
+                      "text": "acknowledgement\nResponse",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -437,12 +437,12 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.5243929935012093,
-                    "offset": -0.6915291657020333
+                    "distance": 0.46999282608317633,
+                    "offset": -16.038776110152032
                   },
                   "attrs": {
                     "text": {
-                      "text": "Put message",
+                      "text": "put message",
                       "font-weight": "400",
                       "font-size": "small"
                     }
