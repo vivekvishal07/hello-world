@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "tm",
+    "owner": "v"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "tm",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
