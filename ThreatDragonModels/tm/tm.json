@@ -669,27 +669,6 @@
               }
             },
             {
-              "type": "tm.Boundary",
-              "smooth": true,
-              "source": {
-                "x": 908,
-                "y": 38
-              },
-              "target": {
-                "x": 911,
-                "y": 516
-              },
-              "vertices": [
-                {
-                  "x": 985,
-                  "y": 260
-                }
-              ],
-              "id": "9f9b0884-5360-467b-b72c-b7e568d33e1b",
-              "z": 22,
-              "attrs": {}
-            },
-            {
               "type": "tm.Process",
               "size": {
                 "width": 100,
